@@ -94,6 +94,7 @@ void display(void)
     glVertex3f(-1.0f,0.0f,0.0f);
     */
     
+    /*
     glBegin(GL_QUAD_STRIP);
     //first
     glColor3f(1.0f,0.0f,0.0f);
@@ -111,7 +112,7 @@ void display(void)
     glColor3f(1.0f,1.0f,0.0f);
     glVertex3f(-1.8f,3.8f,0.0f);   
     glVertex3f(-1.8f,-3.9f,0.0f);  
-    
+    */
     
     /*
     //// circulo solido
